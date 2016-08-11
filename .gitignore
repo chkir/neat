@@ -1,0 +1,8 @@
+*~
+*.o
+*.capnp.c++
+*.capnp.h
+db/
+neat_yet_again/*.egg-info/
+neat4
+*.pyc
