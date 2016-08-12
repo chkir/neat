@@ -31,7 +31,7 @@ the whole file(s).
 
 ### Neatlacoche
 
-[Neatlacoche](https://github.com/mapzen/neatlacoche) was the first version,
+[Neatlacoche](https://github.com/tilezen/neatlacoche) was the first version,
 which was a "single-shot" implementation to take the planet history file and
 split it up into small tiles. The memory overhead required to do that was
 enormous, and it was very slow. There didn't seem to be much of a way to get
